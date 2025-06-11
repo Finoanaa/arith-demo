@@ -1,4 +1,4 @@
-package com.finoana.endpoint.rest.controller.health;
+package com.finoana.arith.endpoint.rest.controller.health;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
