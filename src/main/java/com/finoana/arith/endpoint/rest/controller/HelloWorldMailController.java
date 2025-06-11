@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @AllArgsConstructor
-public class HelloMailController {
+public class HelloWorldMailController {
   private final Mailer mailer;
 
   @GetMapping("/hello")
