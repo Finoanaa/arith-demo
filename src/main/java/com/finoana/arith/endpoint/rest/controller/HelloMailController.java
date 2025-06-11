@@ -1,7 +1,7 @@
 package com.finoana.arith.endpoint.rest.controller;
 
-import com.finoana.mail.Email;
-import com.finoana.mail.Mailer;
+import com.finoana.arith.mail.Email;
+import com.finoana.arith.mail.Mailer;
 import jakarta.mail.internet.InternetAddress;
 import java.util.List;
 import lombok.AllArgsConstructor;
